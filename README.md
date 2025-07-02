@@ -22,6 +22,7 @@ This project demonstrates how to launch an EC2 instance, host a webpage, monitor
   - HTTP traffic (port 80)
 - Deployed a simple custom HTML webpage with:
   > 🌤️ *Hello from the Cloud! Monitoring in progress!!*
+- ✅ Live Site: [http://65.0.178.223](http://65.0.178.223)
 - Styling includes:
   - Background image from [Wallpaperflare](https://c1.wallpaperflare.com/preview/105/785/174/sky-cloud-plane-background.jpg)
   - A square image overlaid using:
@@ -36,7 +37,10 @@ This project demonstrates how to launch an EC2 instance, host a webpage, monitor
 
 → CloudWatch → Metrics → EC2 → Per-Instance Metrics
 
-- Created a visual dashboard to observe usage trends.
+ ✅ Created a visual dashboard to observe usage trends.
+
+📊 **CloudWatch Dashboard:**  
+[cloud-monitor-dashboard](https://ap-south-1.console.aws.amazon.com/cloudwatch/home?region=ap-south-1#dashboards/dashboard/cloud-monitor-dashboard)
 
 ---
 
